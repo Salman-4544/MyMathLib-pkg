@@ -1,5 +1,5 @@
-# SimpleGeometry
-Simple Pyhton library  containing several simple geomtery formulas
+# MyMathLib-pkg
+MyMathLib-pkg is simple Pyhton library  containing several simple geomtery formulas
 
 ## How To install
 You can install and use this package using  [pip](https://pip.pypa.io/en/stable/).
