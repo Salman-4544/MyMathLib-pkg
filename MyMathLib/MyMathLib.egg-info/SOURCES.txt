@@ -1,0 +1,8 @@
+setup.cfg
+setup.py
+MyMathLib/SimpleGeometry.py
+MyMathLib/__init__.py
+MyMathLib.egg-info/PKG-INFO
+MyMathLib.egg-info/SOURCES.txt
+MyMathLib.egg-info/dependency_links.txt
+MyMathLib.egg-info/top_level.txt

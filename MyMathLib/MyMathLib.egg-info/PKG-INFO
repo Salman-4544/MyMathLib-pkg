@@ -1,0 +1,14 @@
+Metadata-Version: 1.2
+Name: MyMathLib
+Version: 0.0.1
+Summary: Simple Pyhton library containing several simple geomtery formulas
+Home-page: https://github.com/Salman-4544/MyMathLib-pkg
+Author: Fariz
+Author-email: farizi1906@gmail.com
+License: UNKNOWN
+Description: UNKNOWN
+Platform: UNKNOWN
+Classifier: Programming Language :: Python :: 3
+Classifier: License :: OSI Approved :: MIT License
+Classifier: Operating System :: OS Independent
+Requires-Python: >=3.7
